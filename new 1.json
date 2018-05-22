@@ -1,0 +1,165 @@
+{
+  "books": [
+    {
+      "book": {
+        "name": "Aerified",
+        "author": {
+          "name": "Sherill Else",
+          "country": "Russia",
+          "rav": "Ariel Kinnane",
+          "talmidim": [
+            { "name": "Billie Ziehm" },
+            { "name": "Tiffie McCahey" },
+            { "name": "Cherie Haugeh" },
+            { "name": "Janeva Northbridge" }
+          ],
+          "age": "tanaim",
+          "bet_midrash": "Grocery"
+        },
+        "resource": {
+          "name": "Engineering & Construction",
+          "type": "txt",
+          "accessibility": "payment"
+        },
+        "subject": {
+          "name": "Marketing",
+          "field": "payment",
+          "field_base_books": [
+            { "name": "It" },
+            { "name": "Tempsoft" },
+            { "name": "Stim" }
+          ],
+          "subject_base_books": [
+            { "name": "Zontrax" },
+            { "name": "Stringtough" },
+            { "name": "Prodder" },
+            { "name": "Stim" },
+            { "name": "Bitwolf" }
+          ]
+        },
+        "publication": {
+          "name": "Deer, swamp",
+          "adress": "2596 Graedel Park",
+          "accuracy": "2XL"
+        }
+      }
+    },
+    {
+      "book": {
+        "name": "Lotstring",
+        "author": {
+          "name": "Ripley Caret",
+          "country": "Indonesia",
+          "rav": "Tulley Stearn",
+          "talmidim": [
+            { "name": "Cyb Potzold" },
+            { "name": "Marta Bernardotte" }
+          ],
+          "age": "rishonim",
+          "bet_midrash": "Beauty"
+        },
+        "resource": {
+          "name": "Real Estate Investment Trusts",
+          "type": "pdf",
+          "accessibility": "payment"
+        },
+        "subject": {
+          "name": "Accounting",
+          "field": "payment",
+          "field_base_books": [
+            { "name": "Bitchip" },
+            { "name": "Rank" },
+            { "name": "Vagram" },
+            { "name": "Cardguard" },
+            { "name": "Sonair" }
+          ],
+          "subject_base_books": [
+            { "name": "Tresom" },
+            { "name": "Bytecard" }
+          ]
+        },
+        "publication": {
+          "name": "African elephant",
+          "adress": "21674 Bluestem Trail",
+          "accuracy": "2XL"
+        }
+      }
+    },
+    {
+      "book": {
+        "name": "Zontrax",
+        "author": {
+          "name": "Carie Doers",
+          "country": "Russia",
+          "rav": "Persis Auger",
+          "talmidim": [
+            { "name": "Flss Lanchberry" },
+            { "name": "Clair Dishmon" }
+          ],
+          "age": "acharonei_acharonim",
+          "bet_midrash": "Tools"
+        },
+        "resource": {
+          "name": "Telecommunications Equipment",
+          "type": "txt",
+          "accessibility": "free"
+        },
+        "subject": {
+          "name": "Training",
+          "field": "payment",
+          "field_base_books": [ { "name": "Stim" } ],
+          "subject_base_books": [
+            { "name": "Bitchip" },
+            { "name": "It" }
+          ]
+        },
+        "publication": {
+          "name": "Salmon, sockeye",
+          "adress": "2943 Fuller Lane",
+          "accuracy": "XS"
+        }
+      }
+    },
+    {
+      "book": {
+        "name": "Zamit",
+        "author": {
+          "name": "Chico Elleyne",
+          "country": "Japan",
+          "rav": "Vanessa Gossage",
+          "talmidim": [
+            { "name": "Shara Crichmer" },
+            { "name": "Juliette Batty" },
+            { "name": "Lorain Baxter" },
+            { "name": "Costanza Stealy" },
+            { "name": "Ware Heifer" }
+          ],
+          "age": "acharonim",
+          "bet_midrash": "Grocery"
+        },
+        "resource": {
+          "name": "n/a",
+          "type": "pdf",
+          "accessibility": "payment"
+        },
+        "subject": {
+          "name": "Marketing",
+          "field": "payment",
+          "field_base_books": [
+            { "name": "Latlux" },
+            { "name": "Kanlam" }
+          ],
+          "subject_base_books": [
+            { "name": "Wrapsafe" },
+            { "name": "Matsoft" }
+          ]
+        },
+        "publication": {
+          "name": "Black-backed magpie",
+          "adress": "1382 Raven Place",
+          "accuracy": "3XL"
+        }
+      }
+    }
+	]
+}
